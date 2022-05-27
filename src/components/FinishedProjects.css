@@ -1,0 +1,32 @@
+.projects {
+  max-width: 62.5rem;
+  width: 96%;
+  margin: 0 auto;
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+
+.project {
+  margin-top: 2.5rem;
+}
+
+.java_img {
+  width: 200px;
+  height: 150px;
+  float: left;
+  margin-right: 3rem;
+}
+
+.C_img {
+  width: 200px;
+  height: 150px;
+  float: left;
+  margin-right: 3rem;
+}
+
+.Net_img {
+  width: 200px;
+  height: 150px;
+  float: left;
+  margin-right: 3rem;
+}

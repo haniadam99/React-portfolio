@@ -1,0 +1,14 @@
+.text {
+  text-align: center;
+  margin-top: 5rem;
+  height: 7.8rem;
+}
+
+.text h1 {
+  font-size: 2rem;
+  color: white;
+}
+
+span {
+  display: block;
+}
